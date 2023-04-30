@@ -2,3 +2,4 @@ adding additional line
 adding one additional line
 adding one more line in local to learn merge conflict
 adding one more line for merge conflict
+adding one line in remote repo for stashing and hard reset
