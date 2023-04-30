@@ -4,3 +4,4 @@ adding one more line in local to learn merge conflict
 adding one more line for merge conflict
 adding one line in remote repo for stashing and hard reset
 adding one other line ot learn stashing and hard reset
+adding one more line to learn stashing when pull
